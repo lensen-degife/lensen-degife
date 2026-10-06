@@ -1,71 +1,63 @@
-### Hi there, I'm Lensen Degife 👋
+# Hi there, I'm Lensen Degife 👋
 
-**Computer Science student at Addis Ababa University** | Full-Stack Developer  
-📍 Addis Ababa, Ethiopia
+### 👨‍💻 Full-Stack Developer & 3rd-Year Computer Science Student at AAU
 
-I'm a passionate full-stack developer who loves building real-world applications — from Spring Boot APIs and React frontends to mobile apps with Expo.  
-Currently focused on clean architecture, modern web/mobile development, and turning ideas into working products.
+Welcome to my GitHub profile! I'm a passionate Computer Science student based in Addis Ababa, Ethiopia, focusing on full-stack development and software engineering. I love building impactful applications, solving logical problems, and constantly learning new technologies.
 
----
+## 🚀 About Me
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **E-Commerce Full Stack** | Complete e-commerce platform with product management, cart, search & image upload | Spring Boot, React, MySQL/H2 | [Backend](https://github.com/lensen-degife/ecommerce-backend) · [Frontend](https://github.com/lensen-degife/ecommerce-frontend) |
-| **Job Listing Platform** | Job posting, search, applications & authentication | Spring Boot, MongoDB, TypeScript/React | [Backend](https://github.com/lensen-degife/JobListing-backend) · [Frontend](https://github.com/lensen-degife/joblisting-frontend) |
-| **HydroLink** | Mobile app for water schedule & community management (Expo + backend) | Expo, React Native, TypeScript, Node.js/Express | [Frontend](https://github.com/lensen-degife/hydrolink) · [Backend](https://github.com/lensen-degife/hydrolink-backend) |
-| **Product Service API** | Clean architecture REST API with multi-database support | Spring Boot, JPA, H2 + MS SQL Server | [Repo](https://github.com/lensen-degife/product-service-api) |
-| **Shop Billing System** | Console-based billing application | C++ | [Repo](https://github.com/lensen-degife/shop-billing) |
-| **Cafe Management System** | Java-based cafe management | Java | [Repo](https://github.com/lensen-degife/CafeSystem) |
-
-🔗 **Live Portfolio**: [lensen-degife.github.io/my-portifolio1](https://lensen-degife.github.io/my-portifolio1/)
+- 🎓 Currently in my **3rd Year** pursuing a degree in **Computer Science** at **Addis Ababa University (AAU)**.
+- 💻 I enjoy building end-to-end web applications and refining my software engineering skills.
+- 🌐 Check out my latest projects on my [Personal Portfolio](https://lensen-degife.github.io/my-portifolio1/).
+- 📫 How to reach me: Let's connect on [LinkedIn](https://www.linkedin.com/in/lensen-degife-60661b3b2/) or [X (Twitter)](https://x.com/lens1216).
+- ⚡ Fun fact: I'm always eager to collaborate on tech solutions and explore modern frameworks.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-**Languages**  
-`Java` `C++` `JavaScript` `TypeScript` `Python` `SQL`
+**Programming Languages:**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Backend**  
-`Spring Boot` `Spring Data JPA` `Spring Security` `Node.js` `Express` `Maven`
+**Frontend Development:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frontend & Mobile**  
-`React` `React Native` `Expo` `HTML5` `CSS3`
+**Backend & Databases:**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-**Databases**  
-`MySQL` `MongoDB` `Microsoft SQL Server` `H2` `SQLite`
-
-**Tools & Others**  
-`Git` `GitHub` `IntelliJ IDEA` `VS Code` `Swagger` `Axios`
-
----
-
-### 📈 GitHub Stats
-
-![Lensen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lensen-degife&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lensen-degife&layout=compact&theme=radical&hide_border=true)
+**Tools & Version Control:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🎯 Current Focus
+## 📈 GitHub Analytics
 
-- Building production-ready full-stack applications
-- Deepening knowledge in clean architecture & Spring ecosystem
-- Exploring mobile development with React Native / Expo
-- Improving code quality, testing, and documentation
-- Open to internships and collaborative projects
-
----
-
-### 📫 Connect with me
-
-- 🌐 Portfolio: [lensen-degife.github.io/my-portifolio1](https://lensen-degife.github.io/my-portifolio1/)
-- 💼 LinkedIn: [lensen-degife](https://www.linkedin.com/in/lensen-degife-60661b3b2/)
-- 🐦 X (Twitter): [@lens1216](https://x.com/lens1216)
-- 📧 Feel free to reach out for collaboration or opportunities!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lensen-degife&show_icons=true&theme=radium" alt="Lensen's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lensen-degife&theme=radium" alt="Lensen's GitHub Streak" />
+</div>
 
 ---
 
-⭐️ From [lensen-degife](https://github.com/lensen-degife)
+## 🔗 Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lensen-degife-60661b3b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/lens1216">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://lensen-degife.github.io/my-portifolio1/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
