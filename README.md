@@ -78,4 +78,7 @@ Welcome to my GitHub profile! I'm a Computer Science student in Addis Ababa, Eth
   <a href="https://lensen-degife.github.io/my-portifolio1/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://t.me/CipherLens">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </div>
