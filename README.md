@@ -55,7 +55,6 @@ Welcome to my GitHub profile! I'm a Computer Science student in Addis Ababa, Eth
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lensen-degife&theme=dracula" alt="Lensen's GitHub Stats" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lensen-degife&theme=dracula" alt="Top Languages" width="48%" />
 </div>
 
