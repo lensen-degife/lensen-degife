@@ -6,9 +6,13 @@
     <a href="https://lensen-degife.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/>
     </a>
-    <a href="https://www.linkedin.com/in/lensen-degife-60661b3b2/">
-      <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-    </a>
+  <a href="https://www.linkedin.com/in/lensen-degife-60661b3b2/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+       width="20"
+       height="20"
+       alt="LinkedIn" />
+  <strong>LinkedIn</strong>
+</a>
     <a href="https://github.com/lensen-degife">
       <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
     </a>
@@ -103,17 +107,13 @@ I enjoy turning ideas into practical software solutions, designing reliable APIs
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lensen-degife&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=lensen-degife&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" alt="GitHub Statistics"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lensen-degife&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages"/>
-
-  <br/>
-
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=lensen-degife&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Contribution Streak"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lensen-degife&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Top Languages"/>
 
 </div>
 
