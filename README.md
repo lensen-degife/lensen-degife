@@ -68,12 +68,3 @@ Computer Science undergraduate at Addis Ababa University specializing in full-st
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
 </p>
-
----
-
-## Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lensen-degife&show_icons=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Overview Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lensen-degife&layout=compact&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8" alt="Top Languages" width="48%" />
-</div>
