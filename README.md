@@ -1,83 +1,79 @@
-# Hi there, I'm Lensen Degife 👋
-
-### 👨‍💻 Full-Stack Developer & Computer Science Student at AAU
-
-Welcome to my GitHub profile! I'm a Computer Science student in Addis Ababa, Ethiopia, focusing on full-stack web and mobile development. I love building impactful applications, solving logical problems, and constantly learning new technologies.
-
-## 🎯 Current Focus
-- 🔭 **Currently working on:** **HydroLink**, a full-stack water management system.
-- 🌱 **Currently learning:** Advanced system architecture, DevOps (Docker), and refining my TypeScript skills.
-- 👯 **Looking to collaborate on:** Open-source projects or innovative full-stack applications.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frontend & Mobile:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Backend & Databases:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **HydroLink** | A comprehensive water management system with separate microservices/backends and frontend. | Spring Boot, React, MySQL | [Frontend Repo](https://github.com/lensen-degife) / [Backend Repo](https://github.com/lensen-degife) |
-| **Product Service API** | A robust RESTful API built to handle product data, inventory, and services. | Spring Boot, Java | [View Repo](https://github.com/lensen-degife) |
-| **E-Commerce / JobListing** | Full-stack applications focusing on user authentication, product/job browsing, and database management. | React, Node, DB | [View Repo](https://github.com/lensen-degife) |
-| **AI Assistant** | An integrated AI assistant tool designed to automate workflows and assist with queries. | Python / JS | [View Repo](https://github.com/lensen-degife) |
-| **Personal Portfolio** | My personal portfolio showcasing my journey, skills, and top projects. | HTML, CSS, JS | [Live Demo](https://lensen-degife.github.io/my-portifolio1/) |
-
-*(Note: Click the links above to see setup instructions, API documentation, and screenshots for each project).*
-
----
-
-## 📈 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lensen-degife&theme=dracula" alt="Top Languages" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=200&section=header&text=Lensen%20Degife&fontSize=40&fontAlignY=38&font=Inter&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descAlign=50&descSize=16&theme=dark" width="100%" alt="Header Banner" />
+
+  <p align="center">
+    <a href="https://lensen-degife.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=0EA5E9" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/lensen-degife-60661b3b2/">
+      <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/lensen-degife">
+      <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+    </a>
+    <a href="https://x.com/lens1216">
+      <img src="https://img.shields.io/badge/X-0F172A?style=flat-square&logo=x&logoColor=FFFFFF" alt="X" />
+    </a>
+    <a href="https://t.me/CipherLens">
+      <img src="https://img.shields.io/badge/Telegram-0F172A?style=flat-square&logo=telegram&logoColor=24A1DE" alt="Telegram" />
+    </a>
+  </p>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lensen-degife/lensen-degife/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</div>
+## Overview
+
+Computer Science undergraduate at Addis Ababa University specializing in full-stack software development and backend systems architecture. Focused on engineering high-performance web applications, robust REST APIs, and scalable relational data models with clean, maintainable architecture.
+
+- **Primary Stack:** Node.js, React, and PostgreSQL.
+- **Core Focus:** Relational database design, distributed API architecture, and state-driven frontend interfaces.
+- **Foundations:** Algorithms and Data Structures, Operating Systems, Database Management Systems, and Object-Oriented Software Design.
 
 ---
 
-## 🔗 Connect with me
+## Technical Stack
+
+### Frontend & Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Languages & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+</p>
+
+---
+
+## Analytics
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/lensen-degife-60661b3b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/lens1216">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://my-portifolio1-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://t.me/CipherLens">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lensen-degife&show_icons=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Overview Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lensen-degife&layout=compact&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8" alt="Top Languages" width="48%" />
 </div>
